@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "CoreText"
 AUTHOR_USER_NAME = "Udith Weerasinghe"
-SRC_REPO = "coreText"
+SRC_REPO = "TextSummarizer"
 AUTHOR_EMAIL = "1999udithweerasinghe@gmail.com"
 
 
