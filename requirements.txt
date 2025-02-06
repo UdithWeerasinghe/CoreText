@@ -1,4 +1,6 @@
 transformers
+accelerate
+evaluate
 transformers[sentencepiece]
 datasets
 sacrebleu 
